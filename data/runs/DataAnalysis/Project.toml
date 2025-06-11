@@ -1,0 +1,9 @@
+name = "DataAnalysis"
+uuid = "74200b56-1d89-4b45-9b3e-5c71ae20cf80"
+authors = ["Simon Jones <github@simonjjones.com>"]
+version = "0.1.0"
+
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Gnuplot = "dc211083-a33a-5b79-959f-2ff34033469d"
