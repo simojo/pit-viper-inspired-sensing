@@ -6,6 +6,14 @@ project that integrates thermal and visual sensing.
 
 [Project Video](https://www.youtube.com/watch?v=YbGg3W7sRKU)
 
+```
+Authors (all credited equally):
+
+Julianne Attai         <julianne.attai at colorado dot edu>
+Simon Jones            <simon.jones-1 at colorado dot edu>
+Tanmay Dharmaji Mhatre <tanmay.mhatre at colorado dot edu>
+Saravana Kumar Prakash <sako6004 at colorado dot edu>
+```
 
 ## Directory Structure
 
