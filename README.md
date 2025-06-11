@@ -3,6 +3,10 @@
 This project contains the source code, design files, and run data for our
 project that integrates thermal and visual sensing.
 
+
+[Project Video](https://www.youtube.com/watch?v=YbGg3W7sRKU)
+
+
 ## Directory Structure
 
 ```sh
